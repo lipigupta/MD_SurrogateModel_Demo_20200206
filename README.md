@@ -1,6 +1,6 @@
 # MD_SurrogateModel_Demo_20200206
 Demonstrates the integration of surrogate model with both Channel Access and PVAccess protocols.
-
+Disclaimer: the surrogate model in this demo is a work in progress, and is not meant to be used for online or offline prediction. 
 
 ## Installation
 The environment for this project is managed using conda. The environment can be created directly from the environment.yml file.
